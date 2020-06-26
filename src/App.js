@@ -1,9 +1,11 @@
 import React from "react";
 
+import Contact from "./Contact";
+
 function App() {
   return (
     <div>
-      <div>Hello</div>
+      <Contact />
     </div>
   );
 }
